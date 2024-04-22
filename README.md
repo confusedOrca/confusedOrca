@@ -1,8 +1,8 @@
-- 👋 Hello World! Siam Here
-- ⚡ 80% Human, 19% Confusion, 1% Orca
-- 🌱 Currently studing CSE at North South University
-- 😄 Passionate about: Coding | Tech | Gaming | Football | Chess | Food
-- 🔨 Debugging through Life
+                    - 👋 Hello World! Siam Here
+                    - ⚡ 80% Human, 19% Confusion, 1% Orca
+                    - 🌱 Currently studing CSE at North South University
+                    - 😄 Passionate about: Coding | Tech | Gaming | Football | Chess | Food
+                    - 🔨 Debugging through Life
 
 
 <!---
